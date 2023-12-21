@@ -1,1 +1,3 @@
 # Customer-Segmentation-using-RFM-Analysis
+
+In this project, our main objective of this project is to conduct RFM analysis on the provided eCommerce dataset and subsequently segment the customers into distinct groups based on their RFM scores. By performing this segmentation, we aim to uncover meaningful patterns within the customer base, allowing businesses to gain valuable insights into customer behavior. By categorizing customers into specific groups, businesses can develop targeted marketing campaigns and customer retention strategies. Ultimately, the objective is to enhance the overall understanding of customer dynamics and optimize strategies for improved customer satisfaction and loyalty.
